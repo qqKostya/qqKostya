@@ -8,5 +8,5 @@
   <a href="https://t.me/kazakovqq">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=qqKostya&style=flat-square&color=blue" alt=""/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=qqKostya&style=flat-square&color=blue" alt=""/>
