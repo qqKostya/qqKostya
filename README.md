@@ -46,7 +46,6 @@
             <li>![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)</li>
             <li>![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)</li>
             <li><a href="https://ru.hexlet.io/u/qqkostya/courses" target="_blank">Hexlet</a></li>
-            <li><a href="https://ru.hexlet.io/u/qqkostya/courses" target="_blank">Hexlet</a></li>
             <li><a href="https://rubyrush.ru/" target="_blank">RubyRush</a></li>
         </ul>
-To communicate with me![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
