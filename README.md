@@ -51,9 +51,16 @@
 ---
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qqKostya&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qqKostya&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqKostya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qqKostya)](https://github.com/anuraghazra/github-readme-stats) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qqKostya&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qqKostya&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qqKostya&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qqKostya&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qqKostya&theme=solarized_dark)
 
 
 ### :hankey: Best Repositories : 
@@ -71,14 +78,3 @@
 <a href="https://github.com/qqKostya/django_todo">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=qqKostya&repo=django_todo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qqKostya&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qqKostya&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qqKostya&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qqKostya&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qqKostya&theme=solarized_dark)
