@@ -63,7 +63,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qqKostya&theme=solarized_dark)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qqKostya&theme=solarized_dark)
 
 
-### :hankey: Best Repositories : 
+<!-- ### :hankey: Best Repositories : 
 
 <a href="https://github.com/qqKostya/django_udemy_website">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=qqKostya&repo=django_udemy_website&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -77,4 +77,4 @@
 
 <a href="https://github.com/qqKostya/django_todo">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=qqKostya&repo=django_todo&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+</a> -->
