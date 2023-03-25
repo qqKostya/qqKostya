@@ -22,7 +22,7 @@
 
 - :telescope: I am a beginner software engineer.
 
-- :seedling: Now I am actively engaged in self-training frontend developer
+- :seedling: Now I am actively engaged in self-training Backend developer
 
 - :zap: In my free time I do pet projects and read technical articles.
 
